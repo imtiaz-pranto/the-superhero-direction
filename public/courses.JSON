@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "category": "Basic",
+        "title": "Basic C Programming",
+        "instructor": "Abdur Rahman",
+        "language": "English",
+        "img": "https://mk0setscholarsn9sko6.kinstacdn.com/wp-content/uploads/2020/07/C-Programming.jpg",
+        "fee": 3300
+    },
+    {
+        "id": 2,
+        "category": "Advanced",
+        "title": "Web Development",
+        "instructor": "Nasem Hossain",
+        "language": "Bangla",
+        "img": "http://www.webdevelopmenthelp.net/wp-content/uploads/2017/04/WebDevCourse.jpg",
+        "fee": 4000
+    },
+    {
+        "id": 3,
+        "category": "Advanced",
+        "title": "Advanced JS Frameworks",
+        "instructor": "Israt Jahan",
+        "language": "English",
+        "img": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/12/Advanced-JavaScript-Tutorial-1.jpg",
+        "fee": 4500
+    },
+    {
+        "id": 4,
+        "category": "Basic",
+        "title": "Basic Networking",
+        "instructor": "JH Antor",
+        "language": "Bangla",
+        "img": "https://www.freecodecamp.org/news/content/images/size/w2000/2020/09/networking.png",
+        "fee": 1100
+    },
+    {
+        "id": 5,
+        "category": "Advanced",
+        "title": "Professional Data Analysis",
+        "instructor": "Abdur Rahman",
+        "language": "English",
+        "img": "https://i.ytimg.com/vi/GbL-42kv5LI/maxresdefault.jpg",
+        "fee": 7000
+    },
+    {
+        "id": 6,
+        "category": "Advanced",
+        "title": "Laravel Framework",
+        "instructor": "Honey Kona",
+        "language": "Bangla",
+        "img": "https://peoplentech.com.bd/storage/upload/file/2LLcM1I5hcvtlhUoAzVHBbKLOLjLV2ViKVCsZmoA.jpeg",
+        "fee": 3200
+    },
+    {
+        "id": 7,
+        "category": "Basic",
+        "title": "Wedding Photography",
+        "instructor": "Yeasin Arafat",
+        "language": "Bangla",
+        "img": "https://makhsoom.com/lb/storage/32000/25176/10fd01704d675b92c9de237a87c9a9f5.jpg",
+        "fee": 1000
+    },
+    {
+        "id": 8,
+        "category": "Advanced",
+        "title": "Advanced Excel",
+        "instructor": "Maliha Anika",
+        "language": "English",
+        "img": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/microsoft-excel-online-courses-training-k24c5afo.jpg",
+        "fee": 2000
+    },
+    {
+        "id": 9,
+        "category": "Basic",
+        "title": "Soft Skills for Career",
+        "instructor": "Abdur Rahman",
+        "language": "English",
+        "img": "https://virtualspeech.com/img/blog/soft-skills-training-mini-icons.jpg",
+        "fee": 3000
+    }
+]

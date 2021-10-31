@@ -1,0 +1,37 @@
+.header-conatiner{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0px;
+}
+.logo{
+    width: 150px;
+}
+
+.navbar a{
+text-decoration: none;
+padding: 7px;
+color: rgb(0, 0, 0);
+font-weight: 500;
+}
+
+.input-design{
+    width: 70%;
+    padding: 5px;
+    border: 2px solid #31BEED;
+}
+.btn-design{
+    padding: 5px;
+    background-color: #31BEED;
+    border: 2px solid #31BEED;
+    color: black;
+    cursor: pointer;
+    font-weight: 500;
+}
+h1{
+    color: #1c87aa;
+    margin: 20px 0px;
+    text-align: center;
+}
